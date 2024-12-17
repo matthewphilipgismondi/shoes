@@ -1,0 +1,10 @@
+Remember the Grain, Hen, Wolf an boat puzzle? You have a sack of grain, a hen, and a dog, and you have to take them all home with you. However, you can only hold two things at a time, and you cannot leave the grain and the hen alone or the wolf and the hen alone. You can make as many trips as you want.
+
+Let's say = is the grain (a stationary object), - is the hen (it tends to run away from you), and + is the dog (it tends to be attracted to you). Here is what you would do:
+
+= - +
+  -      =   +
+= -      =   
+         = - +
+
+and it spells JC! OMG I didn't even try to do that. I had the J backwards at first, but that was an easy fix. 
